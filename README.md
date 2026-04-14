@@ -1,15 +1,15 @@
-# 🍕 Pizza Sales Analysis (Power BI)
+#  Pizza Sales Analysis (Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 Analyze pizza sales data to identify trends, revenue drivers, and customer behavior.
 
-## 📊 Key Insights
+##  Key Insights
 - Top-selling pizza category
 - Revenue by time (hour/day)
 - Peak order times
 - Best & worst performers
 
-## 🛠 Tools Used
+##  Tools Used
 - Power BI
 - DAX
 - Data Cleaning
