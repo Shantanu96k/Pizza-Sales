@@ -14,8 +14,3 @@ Analyze pizza sales data to identify trends, revenue drivers, and customer behav
 - DAX
 - Data Cleaning
 
-## 📷 Dashboard Preview
-(Add screenshots here)
-
-## 📁 Dataset
-(Explain source or structure)﻿# Pizza-Sales
