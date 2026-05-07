@@ -1,13 +1,12 @@
-# Power BI temp files
+
 *.pbix.lock
 *.pbix.tmp
 
-# Windows
 Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# Excel temp files
+
 ~$*.xlsx
 ~$*.xls
 ~$*.csv
