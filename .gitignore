@@ -11,5 +11,4 @@ $RECYCLE.BIN/
 ~$*.xls
 ~$*.csv
 
-# Mac
 .DS_Store
